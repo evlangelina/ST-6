@@ -1,0 +1,11 @@
+# Build artifacts
+my-app/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Template files not used in this lab
+my-app/.mvn/
+my-app/src/main/java/com/mycompany/app/App.java
